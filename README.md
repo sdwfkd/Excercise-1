@@ -2,7 +2,7 @@
 1. [Course Syllabus](./references/SYLLABUS.md)
 2. [**First: Join the Slack Channel**](https://join.slack.com/t/mu-software-eng/shared_invite/zt-gpa3zvs2-nI0VhYhcW~pnSL_92AqoEA)
 3. [Assignment Calendar](./references/assignments.md)
-4. [Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/7480038)
+4. [Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/8029447)
 5. [Weekly Discussions](Will be posted in Canvas, and center on your weekly projects)
 6. **[Modules](./modules.md)** 
 
