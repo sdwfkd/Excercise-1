@@ -19,8 +19,8 @@ Due according to the assignment calendar.
 
 1. Brainstorm and discuss on our Canvas discussion forum **as an entire class, before Thursday's Class**, what you think may have been some of the reasons for the above problems (i.e., how or why did complexity cause these problems) and what could be some ways to address the issues.
 2. In Your Groups, Divide up the two NATO conference reports to be read *or skimmed* (yes, it is a lot of material) and address the questions:
-   - [NATO: 1968 Report](../readings/nato1968.PDF) (231 pgs, 9 sections of varying lengths and numbers of sub-subsections)
-   - [NATO: 1969 Report](../readings/nato1969.PDF) (164 pgs, 7 sections of varying lengths and numbers of sub-sections)
+   - [NATO: 1968 Report](./readings/nato1968.PDF) (231 pgs, 9 sections of varying lengths and numbers of sub-subsections)
+   - [NATO: 1969 Report](./readings/nato1969.PDF) (164 pgs, 7 sections of varying lengths and numbers of sub-sections)
   - How did the conference participants describe the issues of the "software crisis" (they may or may not identify the same issues listed in Wikipedia)?
   - What ideas did they have for addressing the issues?
   - Note which groups of "stakeholders" each issue was most a concern for (i.e., business owners, business managers, developers, software users, etc..)
