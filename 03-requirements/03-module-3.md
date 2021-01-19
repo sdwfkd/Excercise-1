@@ -1,4 +1,7 @@
 # Module Three
+
+**DRAFT**
+
 Please consult [assignments](../references/assignments.md) for due dates. 
 1. [Readings](./readings/_module-3-readings.md)
 2. [Slides](./slides)
