@@ -7,16 +7,16 @@
 6. **[Modules](./modules.md)** 
 
 ## Course Videos
-[Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/7480038)
+[Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/8029447)
 
 ## Student Hours
-[Wednesday, August 26, at 8am on my zoom channel](https://umsystem.zoom.us/my/sociallycompute) **We will find a regular time** 
+[Every day at 5pm - 6pm for the first two weeks, starting WEDNESDAY, January 20, and then we will adapt the time. As needed if you are solidly booked during that time.](https://umsystem.zoom.us/my/sociallycompute?pwd=aE9VQ2laUUQwT2VXZkJESTRRV0N1Zz09) 
 -----
 
 ## Notes on the Semester
-1. First, my basic expectations: For you to have viewed each course day's videos (short videos!), and any associated reading assignments prior to the scheduled lecture date. Again, **you are NOT required to be in the classroom**. Keeping up with materials will be essential for keeping us “together” on our path. 
+1. First, my basic expectations: For you to view course videos and readings by Monday, except for week one obviously. Keeping up with materials will be essential for keeping us “together” on our path. 
 2. I will have student hours on zoom every week. We can discuss the times that work best in the coming weeks.  
-3. The course will include discussion forums where you get to know each other, and discuss questions I pose for you in the assignments. 
+3. The course will rely heavily on discussion forums where you get to know each other, and discuss questions I pose for you in the assignments, and related to the material. Since this is an online course, Zoom, course discussions, and other virtual contact through GitHub will be our central means of working. **You should plan to participate in some form of class work with others around five days every week**
 4. You will have access to a Slack Channel, which will usually be the swiftest channel to get my attention on during the semester. Messaging systems like Slack are also usually more appropriate for team coordination work, when compared with more asynchronous tools like discussion forums. 
 5. You will have routine "self assessments" in Canvas. They will not be a component of your grade, except that you will be required to complete them.  Your "score" replaces some of the feedback on how well you are understanding the material that I historically discern from confused looks in the classroom. But your "score" is not graded. Just completing the self assessment. 
 6. Software engineering methods common in open source software are similar to those employed in corporate environments, and we will largely collaborate on open source projects. Some of my choosing, some of your own choosing.  All of this work will take place on GitHub, and be submitted as an assignment using Canvas. 
@@ -30,4 +30,4 @@ My focus will be on ensuring you have the opportunity to understand and work wit
 -----
 
 
-All Materials Copyright 2020, Sean P. Goggins 
+All Materials Copyright 2021, Sean P. Goggins 
