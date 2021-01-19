@@ -1,6 +1,8 @@
 # Software Engineering I: Fall, 2020 : CS 4320/7320
 1. [Course Syllabus](./references/SYLLABUS.md)
 2. [**First: Join the Slack Channel**](https://join.slack.com/t/mu-software-eng/shared_invite/zt-gpa3zvs2-nI0VhYhcW~pnSL_92AqoEA)
+ - Working through link validation and setting deadlines after module one.  Please read the course syllabus and README.md file. Of important note, I will host student hours each day from 5pm to 6pm starting tomorrow, through Tuesday, February 2nd. After that we will set a schedule based on what works best for the course. Please review this week's assignments, and ask questions on the course SLACK channel here: https://join.slack.com/t/mu-software-eng/shared_invite/zt-gpa3zvs2-nI0VhYhcW~pnSL_92AqoEA
+ - And join the Spring, 2020 Channel, here: https://mu-software-eng.slack.com/archives/C01KK9YSD89
 3. [Assignment Calendar](./references/assignments.md)
 4. [Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/8029447)
 5. [Weekly Discussions](Will be posted in Canvas, and center on your weekly projects)
