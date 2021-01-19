@@ -9,10 +9,11 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | **Assignments** | **Percentage of Grade** | **Due Date** | **Readings** | 
 | --- | --- | -- | --- |
 | **Introduction to Software Engineering** ||
-| 1. GitHub Assignment | 2% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and 2 Papers](../01-introduction-to-software-engineering/readings/_Module-1-Readings.md) |
-| 3. NATO Papers | 2% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
-| 3. Fork and Pull | 2% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
-| 4. Github User ID Submission | 0% | Saturday, August 29, 2020 | n/a |
+| 1. GitHub Assignment | 2% | Saturday, January 23, 2021 | [First 3 Chapters of "Engineering Software ...", and 2 Papers](../01-introduction-to-software-engineering/readings/_Module-1-Readings.md) |
+| 3. NATO Papers | 2% | Saturday, January 23, 2021 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
+| 3. Fork and Pull | 2% | Saturday, January 23, 2021 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
+| 4. Github User ID Submission | 0% | Saturday, January 23, 2021 | n/a |
+<!-- 
 | **Software Engineering Models and Methods** ||
 | 1. Choose You Methods | 3% | Saturday, September 5, 2020 | [Readings List](../02-software-engineering-models-methods/readings/_Module-2-Readings.md) |
 | 2. Build a Model | 2% | Saturday, September 5, 2020 | [Readings List](../02-software-engineering-models-methods/readings/_Module-2-Readings.md) |  
@@ -40,3 +41,4 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 2. Security | 2% | Tuesday, November 10, 2020 | [TBD]() |
 | **Mutual Aid and Discussion Forum Engagement Quality** ||
 | 1. Engagement | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
+ -->
