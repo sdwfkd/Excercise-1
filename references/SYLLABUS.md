@@ -68,8 +68,8 @@ For all technical questions, grade questions or questions regarding the class, f
   - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu) 
 
 ## Meeting Schedule
-_Tuesday and Thursday 2:00 – 3:15 PM_
 
+**This is on an online class.  There is no meeting schedule beyond student hours.
 
 ## Git and Github 
 1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
